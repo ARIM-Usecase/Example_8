@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Aversa, Rossella
+AU  - Modarres, Mohammad Hadi
+AU  - Cozzini, Stefano
+AU  - Ciancio, Regina
+AU  - Chiusole, Alberto
+PY  - 2018
+DA  - 2018/08/28
+TI  - The first annotated set of scanning electron microscopy images for nanoscience
+JO  - Scientific Data
+SP  - 180172
+VL  - 5
+IS  - 1
+AB  - In this paper, we present the first publicly available human-annotated dataset of images obtained by the Scanning Electron Microscopy (SEM). A total of roughly 22,000 SEM images at the nanoscale are classified into 10 categories to form 4 labeled training sets, suited for image recognition tasks. The selected categories span the range of 0D objects such as particles, 1D nanowires and fibres, 2D films and coated surfaces as well as patterned surfaces, and 3D structures such as microelectromechanical system (MEMS) devices and pillars. Additional categories such as tips and biological are also included to expand the spectrum of possible images. A preliminary degree of hierarchy is introduced, by creating a subtree structure for the categories and populating them with the available images, wherever possible.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/sdata.2018.172
+DO  - 10.1038/sdata.2018.172
+ID  - Aversa2018
+ER  - 
